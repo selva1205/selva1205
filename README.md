@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SELVAKUMAR</h1>
 <h3 align="center">A passionate AI Algorithms Researcher from India</h3>
-(img align="right" alt="Coding" width="400" src="https://b2600043.smushcdn.com/2600043/wp-content/uploads/2021/11/TCH36-01-1024x683.jpg?lossy=0&strip=1&webp=1")
+<img align="right" alt="Coding" width="400" src="https://b2600043.smushcdn.com/2600043/wp-content/uploads/2021/11/TCH36-01-1024x683.jpg?lossy=0&strip=1&webp=1")
 
 - 🔭 I’m currently working on [Real Time bidding optimizaion](https://github.com/selva1205)
 
