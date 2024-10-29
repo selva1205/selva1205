@@ -6,9 +6,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/selva1205/selva1205](https://github.com/selva1205/selva1205)
 
-- 📫 How to reach me **aut.selvakumar@gmail.com**
+- 📫 How to reach me **selvakumariitb@live.com**
 
-- ⚡ Fun fact **Robotics Online Games**
+- ⚡ Fun fact **azure container games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
